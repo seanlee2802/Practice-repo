@@ -1,4 +1,4 @@
-from add import add
+from functions import add
 
 def test_add():
     a = 1
